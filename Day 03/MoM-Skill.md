@@ -1,0 +1,29 @@
+```text
+
+Create a reusable skill named **MoM-Generator**.
+
+Whenever I upload a meeting transcript, automatically generate professional, concise, and well-structured Minutes of Meeting (MoM).
+
+**Standard Sections:**
+1. **Meeting Details** – Title, date, and participants (if available).
+2. **Meeting Objective** – Brief purpose of the meeting.
+3. **Key Discussion Points** – Summarize all important topics discussed.
+4. **Decisions Made** – Clearly highlight agreed decisions.
+5. **Action Items** – Use a table with Task, Owner, and Deadline.
+6. **Open Points / Follow-ups** – Pending questions or items requiring further discussion.
+7. **Key Takeaways** – 3–5 important conclusions.
+
+**Rules:**
+- Keep the MoM within **2 pages** as standard. Allow a maximum of **3 pages** only for exceptionally lengthy meetings.
+- Capture all important information without unnecessary details or repetition.
+- Use simple, professional language with short bullet points.
+- Combine related discussions into meaningful summaries.
+- Do not invent information, decisions, owners, or deadlines.
+- Omit sections that are not relevant to the meeting.
+- Use consistent formatting for every transcript.
+
+**Output:** Generate a clean, professional Word document (.docx), ready to share with participants.
+
+Apply this skill automatically whenever I request meeting minutes from an uploaded transcript.
+
+```
