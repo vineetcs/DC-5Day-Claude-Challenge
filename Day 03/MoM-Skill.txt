@@ -1,3 +1,5 @@
+```text
+
 Create a reusable skill named **MoM-Generator**.
 
 Whenever I upload a meeting transcript, automatically generate professional, concise, and well-structured Minutes of Meeting (MoM).
@@ -23,3 +25,5 @@ Whenever I upload a meeting transcript, automatically generate professional, con
 **Output:** Generate a clean, professional Word document (.docx), ready to share with participants.
 
 Apply this skill automatically whenever I request meeting minutes from an uploaded transcript.
+
+```
