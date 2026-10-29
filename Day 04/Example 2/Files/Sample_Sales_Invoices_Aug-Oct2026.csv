@@ -1,0 +1,436 @@
+InvoiceNo,InvoiceDate,SalesRep,Customer,CustomerType,ProductLine,NetAmount
+INV-260815,2026-08-03,Priya Menon,Downtown Deli & Co,Existing,Clearance,31067.40
+INV-260816,2026-08-03,Priya Menon,JLT Bistro Collective,Existing,Premium,16840.28
+INV-260816,2026-08-03,Priya Menon,JLT Bistro Collective,Existing,Premium,21595.60
+INV-260817,2026-08-03,James Whitfield,Al Bateen Bakery Cafe,Existing,Core,"21,936.40"
+INV-260817,2026-08-03,James Whitfield,Al Bateen Bakery Cafe,Existing,Core,21983.88
+INV-260819,2026-08-03,Rahul Sharma,Al Nahda Superstore,Existing,Core,7624.80
+INV-260819,2026-08-03,Rahul Sharma,Al Nahda Superstore,Existing,Core,14996.56
+INV-260821,2026-08-03,Rahul Sharma,Sharjah Corniche Hotel,Existing,Core,15584.56
+INV-260824,2026-08-03,Sarah Collins,RAK Marjan Resort Dining,Existing,Premium,14904.10
+INV-260824,2026-08-03,Sarah Collins,RAK Marjan Resort Dining,Existing,Core,7427.30
+INV-260824,2026-08-03,Sarah Collins,RAK Marjan Resort Dining,Existing,Core,8092.16
+INV-260825,2026-08-04,Rahul Sharma,Al Majaz Hypermarket,Existing,Core,15665.88
+INV-260825,2026-08-04,Rahul Sharma,Al Majaz Hypermarket,Existing,Core,13214.00
+INV-260826,2026-08-04,Sarah Collins,Fujairah Fort Supermarket,Existing,Premium,17829.44
+INV-260828,2026-08-05,Layla Haddad,Industrial Area 4 Cafeterias,Existing,Core,7645.74
+INV-260828,2026-08-05,Layla Haddad,Industrial Area 4 Cafeterias,Existing,Core,11074.46
+INV-260831,2026-08-06,Priya Menon,Karama Spice Traders,Existing,Core,13145.84
+INV-260831,2026-08-06,Priya Menon,Karama Spice Traders,Existing,Core,13300.80
+INV-260833,2026-08-06,James Whitfield,Al Reem Gourmet,Existing,Core,15465.64
+INV-260833,2026-08-06,James Whitfield,Al Reem Gourmet,Existing,Core,12182.66
+INV-260835,2026-08-06,Fatima Al Zaabi,Al Mushrif Sweets,Existing,Core,24110.88
+INV-260836,2026-08-06,Sarah Collins,Al Hamra Village Store,Existing,Core,6187.16
+INV-260836,2026-08-06,Sarah Collins,Al Hamra Village Store,Existing,Core,12929.38
+INV-260838,2026-08-07,Ahmed Al Mansoori,Al Barsha Coop Store,Existing,Core,26012.40
+INV-260841,2026-08-07,Ahmed Al Mansoori,Business Bay Corporate Catering,Existing,Premium,20502.26
+INV-260841,2026-08-07,Ahmed Al Mansoori,Business Bay Corporate Catering,Existing,Core,22569.48
+INV-260841,2026-08-07,Ahmed Al Mansoori,Business Bay Corporate Catering,Existing,Core,18857.28
+INV-260844,2026-08-10,Priya Menon,Al Quoz Staff Canteens,Existing,Core,13135.40
+INV-260844,2026-08-10,Priya Menon,Al Quoz Staff Canteens,Existing,Core,11519.24
+INV-260844,2026-08-10,Priya Menon,Al Quoz Staff Canteens,Existing,Premium,20576.24
+INV-260845,2026-08-10,Fatima Al Zaabi,Shakhbout Grocery Centre,Existing,Clearance,23812.88
+INV-260848,2026-08-11,Ahmed Al Mansoori,Al Barsha Coop Store,Existing,Core,19261.40
+INV-260851,2026-08-11,Imran Qureshi,Fujairah Beach Hotel,Existing,Clearance,13248.52
+INV-260853,2026-08-12,Ahmed Al Mansoori,Marina Gourmet Market,Existing,Premium,36505.78
+INV-260855,2026-08-12,Fatima Al Zaabi,Shakhbout Grocery Centre,Existing,Core,16922.36
+INV-260855,2026-08-12,Fatima Al Zaabi,Shakhbout Grocery Centre,Existing,Core,16577.62
+INV-260855,2026-08-12,Fatima Al Zaabi,Shakhbout Grocery Centre,Existing,Core,14930.28
+INV-260858,2026-08-12,Fatima Al Zaabi,Bani Yas Trading Store,Existing,Core,13846.36
+INV-260858,2026-08-12,Fatima Al Zaabi,Bani Yas Trading Store,Existing,Core,10761.12
+INV-260859,2026-08-12,Rahul Sharma,Aljada Food Hall,New,Premium,10320.72
+INV-260860,2026-08-12,Rahul Sharma,Rolla Wholesale Traders,Existing,Core,10674.92
+INV-260860,2026-08-12,Rahul Sharma,Rolla Wholesale Traders,Existing,Clearance,11678.34
+INV-260860,2026-08-12,Rahul Sharma,Rolla Wholesale Traders,Existing,Premium,15892.32
+INV-260863,2026-08-12,Imran Qureshi,Ajman Central Market,Existing,Core,6670.02
+INV-260863,2026-08-12,Imran Qureshi,Ajman Central Market,Existing,Clearance,7218.04
+INV-260866,2026-08-13,Ahmed Al Mansoori,Creekside Restaurants Group,Existing,Clearance,19886.72
+INV-260869,2026-08-13,James Whitfield,Khalifa City Supermarket,Existing,Core,15614.08
+INV-260869,2026-08-13,James Whitfield,Khalifa City Supermarket,Existing,Core,17042.80
+INV-260872,2026-08-13,James Whitfield,Yas Leisure Catering,Existing,Clearance,17310.88
+INV-260872,2026-08-13,James Whitfield,Yas Leisure Catering,Existing,Premium,17314.58
+INV-260873,2026-08-13,Layla Haddad,Industrial Area 4 Cafeterias,Existing,Clearance,10716.92
+INV-260876,2026-08-13,Layla Haddad,Al Mamzar Bakery,Existing,Clearance,17505.56
+INV-260878,2026-08-13,Imran Qureshi,Fujairah Beach Hotel,Existing,Clearance,10499.44
+INV-260881,2026-08-13,Imran Qureshi,Khor Fakkan Fresh Mart,Existing,Core,12449.96
+CN-9101,2026-08-14,Fatima Al Zaabi,Al Ain Road Fuel Marts,Existing,Clearance,-2875.00
+INV-260882,2026-08-14,Ahmed Al Mansoori,Palm Crest Hotel,Existing,Core,34359.68
+INV-260883,2026-08-14,Priya Menon,Al Quoz Staff Canteens,Existing,Core,17305.80
+INV-260886,2026-08-14,Layla Haddad,Al Mamzar Bakery,Existing,Premium,12194.04
+INV-260886,2026-08-14,Layla Haddad,Al Mamzar Bakery,Existing,Core,11979.40
+INV-260889,2026-08-17,Fatima Al Zaabi,Al Ain Road Fuel Marts,Existing,Core,16930.36
+INV-260892,2026-08-17,Rahul Sharma,University City Canteens,Existing,Core,16547.04
+INV-260892,2026-08-17,Rahul Sharma,University City Canteens,Existing,Core,8211.96
+INV-260892,2026-08-17,Rahul Sharma,University City Canteens,Existing,Core,12539.60
+INV-260895,2026-08-17,Layla Haddad,Industrial Area 4 Cafeterias,Existing,Core,16040.24
+CN-9104,2026-08-18,Rahul Sharma,Rolla Wholesale Traders,Existing,Premium,-2190.00
+INV-260897,2026-08-18,James Whitfield,Saadiyat Organic Store,Existing,Core,16905.24
+INV-260897,2026-08-18,James Whitfield,Saadiyat Organic Store,Existing,Premium,20252.88
+INV-260900,2026-08-18,Layla Haddad,Industrial Area 4 Cafeterias,Existing,Core,13855.32
+INV-260901,18/08/2026,Layla Haddad,Industrial Area 4 Cafeterias,Existing,Core,13704.94
+INV-260903,2026-08-18,Imran Qureshi,Khor Fakkan Fresh Mart,Existing,Core,9563.40
+INV-260903,18/08/2026,Imran Qureshi,Khor Fakkan Fresh Mart,Existing,Premium,11058.66
+INV-260905,2026-08-18,Imran Qureshi,Fujairah Beach Hotel,Existing,Premium,11377.64
+INV-260908,2026-08-18,Sarah Collins,Al Hamra Village Store,Existing,Core,12654.72
+INV-260909,2026-08-19,Layla Haddad,Al Taawun Grocery,Existing,Core,15244.66
+INV-260909,2026-08-19,Layla Haddad,Al Taawun Grocery,Existing,Clearance,10321.00
+INV-260911,2026-08-19,Imran Qureshi,Ajman Corniche Cafe,Existing,Premium,11788.20
+INV-260912,2026-08-20,Rahul Sharma,Al Majaz Hypermarket,Existing,Core,15049.72
+INV-260913,2026-08-20,Imran Qureshi,Ajman Pearl Hotel,New,Core,5833.90
+INV-260915,2026-08-20,Sarah Collins,Al Hamra Village Store,Existing,Premium,10093.20
+INV-260918,2026-08-20,Sarah Collins,Ajman University Catering,Existing,Core,13996.16
+INV-260918,2026-08-20,Sarah Collins,Ajman University Catering,Existing,Core,7413.50
+INV-260921,2026-08-20,Sarah Collins,Masfout Valley Market,Existing,Core,17489.44
+CN-9107,2026-08-21,Ahmed Al Mansoori,Deira Family Supermarket,Existing,Core,-4210.50
+INV-260922,2026-08-21,Ahmed Al Mansoori,Palm Crest Hotel,Existing,Clearance,25393.82
+INV-260924,2026-08-21,Rahul Sharma,Rolla Wholesale Traders,Existing,Premium,21396.52
+INV-260927,2026-08-21,Layla Haddad,Al Butina Supermarket,Existing,Core,17973.28
+INV-260930,2026-08-24,Ahmed Al Mansoori,Marina Gourmet Market,Existing,Core,16911.12
+INV-260933,2026-08-24,Priya Menon,Al Furjan Neighbourhood Market,New,Core,9214.12
+INV-260935,2026-08-24,James Whitfield,Mussafah Wholesale Foods,Existing,Core,13934.74
+INV-260937,24/08/2026,Fatima Al Zaabi,Al Ain Road Fuel Marts,Existing,Core,20572.66
+INV-260937,2026-08-24,Fatima Al Zaabi,Al Ain Road Fuel Marts,Existing,Core,13237.80
+INV-260937,2026-08-24,Fatima Al Zaabi,Al Ain Road Fuel Marts,Existing,Core,19397.54
+INV-260939,2026-08-24,Imran Qureshi,RAK Mountain Resort,Existing,Core,13220.60
+INV-260941,2026-08-24,Sarah Collins,Dibba Seaside Grocers,Existing,Premium,8197.30
+INV-260941,2026-08-24,Sarah Collins,Dibba Seaside Grocers,Existing,Clearance,7066.44
+INV-260943,2026-08-25,Ahmed Al Mansoori,Jumeirah Fresh Grocers,Existing,Core,12886.00
+INV-260943,2026-08-25,Ahmed Al Mansoori,Jumeirah Fresh Grocers,Existing,Premium,15998.12
+INV-260943,2026-08-25,Ahmed Al Mansoori,Jumeirah Fresh Grocers,Existing,Core,26902.24
+INV-260945,2026-08-25,Sarah Collins,Al Jazeera Port Canteen,Existing,Premium,12209.56
+CN-9108,2026-08-26,Layla Haddad,Al Taawun Grocery,Existing,Core,"AED -3,360.00"
+INV-260948,2026-08-26,Priya Menon,Silicon Oasis Mini Mart,Existing,Core,13479.64
+INV-260950,2026-08-26,Fatima Al Zaabi,Al Mushrif Sweets,Existing,Core,20109.24
+INV-260951,2026-08-26,Rahul Sharma,Al Nahda Superstore,Existing,Clearance,19070.32
+INV-260954,2026-08-27,Priya Menon,Silicon Oasis Mini Mart,Existing,Premium,17819.60
+INV-260955,2026-08-27,Priya Menon,Mirdif Daily Fresh,Existing,Premium,20392.66
+INV-260955,2026-08-27,Priya Menon,Mirdif Daily Fresh,Existing,Core,16577.18
+INV-260957,2026-08-27,Priya Menon,Silicon Oasis Mini Mart,Existing,Core,25093.52
+INV-260957,27/08/2026,Priya Menon,Silicon Oasis Mini Mart,Existing,Core,24715.24
+INV-260960,2026-08-27,James Whitfield,Al Bateen Bakery Cafe,Existing,Core,16906.64
+INV-260961,2026-08-27,Layla Haddad,Al Taawun Grocery,Existing,Clearance,6889.84
+INV-260961,2026-08-27,Layla Haddad,Al Taawun Grocery,Existing,Core,11020.90
+INV-260962,2026-08-27,Layla Haddad,Al Butina Supermarket,Existing,Core,14678.44
+INV-260963,2026-08-27,Sarah Collins,Dibba Seaside Grocers,Existing,Core,8463.46
+INV-260965,2026-08-28,Ahmed Al Mansoori,Creekside Restaurants Group,Existing,Core,34625.12
+INV-260967,2026-08-28,Ahmed Al Mansoori,Creekside Restaurants Group,Existing,Core,32729.70
+INV-260970,2026-08-28,James Whitfield,Mussafah Wholesale Foods,Existing,Clearance,19994.94
+INV-260970,2026-08-28,James Whitfield,Mussafah Wholesale Foods,Existing,Core,10245.88
+INV-260970,2026-08-28,James Whitfield,Mussafah Wholesale Foods,Existing,Core,12721.58
+INV-260972,2026-08-28,Fatima Al Zaabi,Al Wahda Family Market,Existing,Core,18650.50
+INV-260974,2026-08-28,Rahul Sharma,Al Qasba Restaurants,Existing,Core,17870.24
+INV-260974,2026-08-28,Rahul Sharma,Al Qasba Restaurants,Existing,Core,12892.98
+INV-260977,2026-08-28,Rahul Sharma,University City Canteens,Existing,Core,6569.76
+INV-260980,2026-08-28,Imran Qureshi,Ajman Central Market,Existing,Core,16112.56
+INV-260983,2026-08-28,Sarah Collins,Ajman University Catering,Existing,Core,17127.66
+INV-260985,2026-08-28,Sarah Collins,Fujairah Fort Supermarket,Existing,premium,11974.62
+INV-260988,2026-08-31,Ahmed Al Mansoori,Palm Crest Hotel,Existing,Core,31808.00
+INV-260991,2026-08-31,Ahmed Al Mansoori,Marina Gourmet Market,Existing,Core,19582.50
+INV-260992,2026-08-31,Priya Menon,Silicon Oasis Mini Mart,Existing,Core,"17,849.18"
+INV-260992,2026-08-31,Priya Menon,Silicon Oasis Mini Mart,Existing,Premium,15407.08
+INV-260995,2026-08-31,James Whitfield,Raha Beach Kitchen,New,Core,10165.70
+INV-260997,2026-08-31,James Whitfield,Saadiyat Organic Store,Existing,Core,15430.72
+INV-261000,2026-08-31,James Whitfield,Khalifa City Supermarket,Existing,Core,26597.68
+INV-261003,2026-08-31,Fatima Al Zaabi,Bani Yas Trading Store,Existing,Core,25752.02
+INV-261005,2026-09-01,Priya Menon,Golden Sands Hotel Apartments,Existing,Core,15304.28
+INV-261008,2026-09-01,James Whitfield,Khalifa City Supermarket,Existing,Core,23529.40
+INV-261009,2026-09-01,Fatima Al Zaabi,Capital Healthcare Catering,Existing,Premium,19638.08
+INV-261010,2026-09-01,Sarah Collins,RAK Marjan Resort Dining,Existing,Premium,8236.90
+INV-261011,2026-09-01,Sarah Collins,Fujairah Fort Supermarket,Existing,Clearance,16019.12
+INV-261013,2026-09-02,Ahmed Al Mansoori,Creekside Restaurants Group,Existing,Premium,11419.82
+INV-261013,2026-09-02,Ahmed Al Mansoori,Creekside Restaurants Group,Existing,Clearance,14760.60
+INV-261016,2026-09-02,Priya Menon,Al Quoz Staff Canteens,Existing,Core,25166.46
+INV-261016,2026-09-02,Priya Menon,Al Quoz Staff Canteens,Existing,Core,11226.84
+INV-261018,2026-09-02,Priya Menon,JLT Bistro Collective,Existing,Clearance,33171.94
+INV-261021,2026-09-02,Priya Menon,Al Furjan Neighbourhood Market,Existing,Core,24390.14
+INV-261022,2026-09-02,Rahul Sharma,Al Qasba Restaurants,Existing,Core,12253.68
+INV-261022,2026-09-02,Rahul Sharma,Al Qasba Restaurants,Existing,Core,16927.88
+INV-261025,2026-09-02,Layla Haddad,Al Taawun Grocery,Existing,Clearance,20663.90
+INV-261027,2026-09-02,Sarah Collins,Fujairah Fort Supermarket,Existing,Core,16025.20
+INV-261030,2026-09-02,Sarah Collins,Al Hamra Village Store,Existing,Core,14794.34
+INV-261032,2026-09-03,James Whitfield,Mussafah Wholesale Foods,Existing,Core ,17343.76
+INV-261034,2026-09-03,James Whitfield,Saadiyat Organic Store,Existing,Premium,21671.72
+INV-261035,2026-09-03,Rahul Sharma,Muwaileh Fresh Market,Existing,Core,14874.96
+INV-261035,2026-09-03,Rahul Sharma,Muwaileh Fresh Market,Existing,Core,7869.48
+INV-261038,2026-09-03,Rahul Sharma,Rolla Wholesale Traders,Existing,Premium,15958.00
+INV-261039,2026-09-03,Layla Haddad,Industrial Area 4 Cafeterias,Existing,Core,7090.90
+INV-261039,2026-09-03,Layla Haddad,Industrial Area 4 Cafeterias,Existing,Premium,13380.76
+INV-261042,2026-09-04,James Whitfield,Saadiyat Organic Store,Existing,Core,27767.24
+INV-261043,2026-09-04,Fatima Al Zaabi,Al Ain Road Fuel Marts,Existing,Core,18834.68
+INV-261045,2026-09-04,Imran Qureshi,Al Nakheel Grocery RAK,Existing,Clearance,7641.96
+INV-261045,2026-09-04,Imran Qureshi,Al Nakheel Grocery RAK,Existing,Premium,9560.92
+INV-261048,2026-09-04,Sarah Collins,Kalba Lagoon Restaurant,New,Core,7580.28
+INV-261051,2026-09-07,Ahmed Al Mansoori,Al Noor Hypermarket - Qusais,Existing,Core,"AED 20,873.54"
+INV-261052,2026-09-07,Ahmed Al Mansoori,Al Noor Hypermarket - Qusais,Existing,Clearance,12289.68
+INV-261052,2026-09-07,Ahmed Al Mansoori,Al Noor Hypermarket - Qusais,Existing,Premium,13568.60
+INV-261055,2026-09-07,Fatima Al Zaabi,Al Mushrif Sweets,Existing,Clearance,11149.88
+INV-261058,2026-09-07,Layla Haddad,Al Khan Seafood Restaurant,Existing,Premium,8903.92
+INV-261058,2026-09-07,Layla Haddad,Al Khan Seafood Restaurant,Existing,Core,10742.28
+INV-261059,2026-09-07,Sarah Collins,RAK Marjan Resort Dining,Existing,Core,18844.76
+INV-261061,2026-09-08,Fatima Al Zaabi,Shakhbout Grocery Centre,Existing,Core,13794.72
+INV-261061,2026-09-08,Fatima Al Zaabi,Shakhbout Grocery Centre,Existing,Clearance,12423.72
+INV-261064,2026-09-08,Sarah Collins,RAK Marjan Resort Dining,Existing,Core,11049.44
+INV-261066,2026-09-09,Ahmed Al Mansoori,Al Barsha Coop Store,Existing,Premium,18933.26
+INV-261068,2026-09-09,James Whitfield,Yas Leisure Catering,Existing,Core,18282.88
+INV-261070,2026-09-09,Rahul Sharma,Al Nahda Superstore,Existing,Premium,7258.22
+INV-261070,2026-09-09,Rahul Sharma,Al Nahda Superstore,Existing,Core,7100.30
+INV-261070,2026-09-09,Rahul Sharma,Al Nahda Superstore,Existing,Premium,7404.72
+INV-261072,2026-09-09,Imran Qureshi,Khor Fakkan Fresh Mart,Existing,Core,13248.30
+INV-261073,2026-09-10,James Whitfield,Al Reem Gourmet,Existing,Core,17645.78
+INV-261076,2026-09-10,Rahul Sharma,Al Nahda Superstore,Existing,Clearance,8271.42
+INV-261076,2026-09-10,Rahul Sharma,Al Nahda Superstore,Existing,Core,10939.04
+INV-261079,2026-09-11,James Whitfield,Al Reem Gourmet,Existing,Core,26987.32
+INV-261080,2026-09-11,Rahul Sharma,Al Majaz Hypermarket,Existing,Core,19592.72
+INV-261082,2026-09-14,Ahmed Al Mansoori,Jumeirah Fresh Grocers,Existing,Premium,23886.04
+INV-261082,2026-09-14,Ahmed Al Mansoori,Jumeirah Fresh Grocers,Existing,Premium,19440.40
+INV-261083,2026-09-14,James Whitfield,Raha Beach Kitchen,Existing,Core,19790.04
+INV-261083,2026-09-14,James Whitfield,Raha Beach Kitchen,Existing,Core,11610.48
+INV-261083,2026-09-14,James Whitfield,Raha Beach Kitchen,Existing,Core,15617.32
+INV-261084,2026-09-14,James Whitfield,Saadiyat Organic Store,Existing,Core,15020.60
+INV-261084,14/09/2026,James Whitfield,Saadiyat Organic Store,Existing,Core,15332.84
+INV-261085,2026-09-14,Layla Haddad,Al Mamzar Bakery,Existing,Core,10787.92
+INV-261086,2026-09-15,Ahmed Al Mansoori,Jumeirah Fresh Grocers,Existing,Core,25801.80
+INV-261087,2026-09-15,Ahmed Al Mansoori,Creekside Restaurants Group,Existing,Core,21874.32
+INV-261088,2026-09-15,Ahmed Al Mansoori,Jumeirah Fresh Grocers,Existing,Core,18172.54
+INV-261089,2026-09-15,Priya Menon,Al Furjan Neighbourhood Market,Existing,Premium,32731.12
+INV-261090,2026-09-15,Priya Menon,Mirdif Daily Fresh,Existing,Premium,12486.68
+INV-261090,2026-09-15,Priya Menon,Mirdif Daily Fresh,Existing,Premium,12209.26
+INV-261090,2026-09-15,Priya Menon,Mirdif Daily Fresh,Existing,Premium,11917.20
+INV-261093,2026-09-15,Layla Haddad,Al Mamzar Bakery,Existing,Core,12717.40
+INV-261093,2026-09-15,Layla Haddad,Al Mamzar Bakery,Existing,Core,10691.28
+INV-261095,2026-09-15,Layla Haddad,Al Taawun Grocery,Existing,Clearance,11693.04
+INV-261098,2026-09-15,Imran Qureshi,Fujairah Beach Hotel,Existing,Premium,13776.68
+CN-9110,2026-09-16,Sarah Collins,Fujairah Fort Supermarket,Existing,Core,-2745.00
+INV-261099,2026-09-16,Sarah Collins,RAK Marjan Resort Dining,Existing,Core,11063.02
+INV-261100,2026-09-17,Ahmed Al Mansoori,Al Noor Hypermarket - Qusais,Existing,Core,19242.46
+INV-261100,2026-09-17,Ahmed Al Mansoori,Al Noor Hypermarket - Qusais,Existing,Core,18725.90
+INV-261102,2026-09-17,Sarah Collins,Ajman University Catering,Existing,Core,12348.48
+INV-261102,2026-09-17,Sarah Collins,Ajman University Catering,Existing,Core,6556.48
+INV-261104,2026-09-17,Sarah Collins,Fujairah Fort Supermarket,Existing,Clearance,14879.04
+INV-261104,2026-09-17,Sarah Collins,Fujairah Fort Supermarket,Existing,Core,10928.04
+INV-261105,2026-09-18,Ahmed Al Mansoori,Marina Gourmet Market,Existing,Core,27478.54
+INV-261108,2026-09-18,Priya Menon,Golden Sands Hotel Apartments,Existing,Premium,31692.08
+INV-261111,2026-09-18,Fatima Al Zaabi,Bani Yas Trading Store,Existing,Clearance,21377.56
+INV-261113,2026-09-21,Priya Menon,Karama Spice Traders,Existing,Core,24753.44
+INV-261113,2026-09-21,Priya Menon,Karama Spice Traders,Existing,Premium,20084.80
+INV-261114,2026-09-21,Fatima Al Zaabi,Al Wahda Family Market,Existing,Core,9021.08
+INV-261114,2026-09-21,Fatima Al Zaabi,Al Wahda Family Market,Existing,Core,13371.24
+INV-261114,2026-09-21,Fatima Al Zaabi,Al Wahda Family Market,Existing,Core,12979.18
+INV-261116,2026-09-21,Fatima Al Zaabi,Al Mushrif Sweets,Existing,Core,18205.04
+INV-261116,2026-09-21,Fatima Al Zaabi,Al Mushrif Sweets,Existing,Core,9791.36
+INV-261118,2026-09-21,Imran Qureshi,Fujairah Beach Hotel,Existing,Core,10537.08
+INV-261121,2026-09-21,Imran Qureshi,Fujairah Beach Hotel,Existing,Clearance,5645.92
+INV-261121,2026-09-21,Imran Qureshi,Fujairah Beach Hotel,Existing,Clearance,12384.84
+INV-261121,2026-09-21,Imran Qureshi,Fujairah Beach Hotel,Existing,Core,"AED 11,369.64"
+INV-261124,2026-09-22,Priya Menon,JLT Bistro Collective,Existing,Core,13135.28
+INV-261124,2026-09-22,Priya Menon,JLT Bistro Collective,Existing,Premium,11792.28
+INV-261127,2026-09-22,James Whitfield,Khalifa City Supermarket,Existing,Core,19737.92
+INV-261127,2026-09-22,James Whitfield,Khalifa City Supermarket,Existing,Core,18991.28
+INV-261130,2026-09-22,James Whitfield,Raha Beach Kitchen,Existing,Clearance,12764.36
+INV-261130,2026-09-22,James Whitfield,Raha Beach Kitchen,Existing,Clearance,22469.24
+INV-261132,2026-09-22,Rahul Sharma,Sharjah Corniche Hotel,Existing,Core,18509.26
+INV-261135,2026-09-22,Layla Haddad,Al Zahia Community Store,New,Core,8935.90
+INV-261138,2026-09-22,Sarah Collins,Al Hamra Village Store,Existing,Core,9626.68
+INV-261138,2026-09-22,Sarah Collins,Al Hamra Village Store,Existing,Clearance,8245.56
+INV-261138,2026-09-22,Sarah Collins,Al Hamra Village Store,Existing,Clearance,6367.94
+CN-9111,2026-09-23,James Whitfield,Al Bateen Bakery Cafe,Existing,Core,-6480.25
+CN-9114,2026-09-23,Imran Qureshi,Ajman Central Market,Existing,Clearance,-1980.00
+INV-261141,2026-09-23,Ahmed Al Mansoori,Creekside Restaurants Group,Existing,Core,28821.78
+INV-261143,2026-09-23,Fatima Al Zaabi,Shakhbout Grocery Centre,Existing,Premium,23720.04
+INV-261145,2026-09-23,Fatima Al Zaabi,Capital Healthcare Catering,Existing,Core,26695.20
+INV-261147,2026-09-23,Rahul Sharma,Sharjah Corniche Hotel,Existing,Premium,19547.80
+INV-261149,2026-09-23,Imran Qureshi,RAK Mountain Resort,Existing,Core,11979.80
+INV-261150,2026-09-23,Sarah Collins,Al Jazeera Port Canteen,Existing,Core,9643.28
+INV-261152,2026-09-24,Ahmed Al Mansoori,Marina Gourmet Market,Existing,Core,12028.48
+INV-261152,2026-09-24,Ahmed Al Mansoori,Marina Gourmet Market,Existing,Core,15741.98
+INV-261154,2026-09-24,Priya Menon,Mirdif Daily Fresh,Existing,Core,22852.52
+INV-261157,2026-09-24,James Whitfield,Khalifa City Supermarket,Existing,Core,21842.80
+INV-261158,2026-09-24,Fatima Al Zaabi,Al Ain Road Fuel Marts,Existing,Premium,10056.46
+INV-261158,2026-09-24,Fatima Al Zaabi,Al Ain Road Fuel Marts,Existing,Core,"AED 13,085.02"
+INV-261158,2026-09-24,Fatima Al Zaabi,Al Ain Road Fuel Marts,Existing,Core,9150.24
+INV-261161,2026-09-24,Layla Haddad,Al Butina Supermarket,Existing,Premium,14392.74
+INV-261161,2026-09-24,Layla Haddad,Al Butina Supermarket,Existing,Clearance,8293.28
+CN-9117,2026-09-25,Priya Menon,Golden Sands Hotel Apartments,Existing,Premium,-5120.00
+INV-261162,25/09/2026,James Whitfield,Al Reem Gourmet,Existing,Core,10235.24
+INV-261165,2026-09-25,Fatima Al Zaabi,Capital Healthcare Catering,Existing,Core,9034.52
+INV-261167,2026-09-28,Ahmed Al Mansoori,Dubai Hills Fresh Pantry,New,Premium,10527.04
+INV-261168,2026-09-28,Rahul Sharma,Al Nahda Superstore,Existing,Premium,22512.58
+INV-261169,2026-09-28,Imran Qureshi,Ajman Corniche Cafe,Existing,Core,16981.50
+INV-261171,2026-09-28,Sarah Collins,Dibba Seaside Grocers,Existing,Core,6120.92
+INV-261171,2026-09-28,Sarah Collins,Dibba Seaside Grocers,Existing,Core,"10,287.16"
+INV-261172,2026-09-29,Rahul Sharma,Rolla Wholesale Traders,Existing,Premium,15814.24
+INV-261174,2026-09-29,Layla Haddad,Industrial Area 4 Cafeterias,Existing,Core,12513.20
+INV-261174,2026-09-29,Layla Haddad,Industrial Area 4 Cafeterias,Existing,Premium,14437.34
+INV-261174,2026-09-29,Layla Haddad,Industrial Area 4 Cafeterias,Existing,Core,15847.96
+INV-261175,2026-09-29,Layla Haddad,Al Taawun Grocery,Existing,Core,11290.96
+INV-261176,2026-09-29,Sarah Collins,Al Hamra Village Store,Existing,Core,13398.92
+CN-9121,2026-09-30,Ahmed Al Mansoori,Marina Gourmet Market,Existing,Clearance,-3900.00
+INV-261178,2026-09-30,Ahmed Al Mansoori,Business Bay Corporate Catering,Existing,Core,25154.52
+INV-261179,2026-09-30,Ahmed Al Mansoori,Al Noor Hypermarket - Qusais,Existing,Premium,16207.20
+INV-261179,2026-09-30,Ahmed Al Mansoori,Al Noor Hypermarket - Qusais,Existing,Core,11469.88
+INV-261181,2026-09-30,Ahmed Al Mansoori,Al Noor Hypermarket - Qusais,Existing,Core,30812.12
+INV-261182,2026-09-30,Priya Menon,Al Quoz Staff Canteens,Existing,Premium,12002.04
+INV-261182,2026-09-30,Priya Menon,Al Quoz Staff Canteens,Existing,Core,10758.16
+INV-261185,2026-09-30,Rahul Sharma,Aljada Food Hall,Existing,Core,16581.76
+INV-261186,2026-09-30,Rahul Sharma,Aljada Food Hall,Existing,Core,14693.52
+INV-261187,2026-09-30,Imran Qureshi,Umm Al Quwain Coop,Existing,Premium,11441.02
+INV-261187,2026-09-30,Imran Qureshi,Umm Al Quwain Coop,Existing,Premium,13168.94
+INV-261188,2026-09-30,Sarah Collins,RAK Marjan Resort Dining,Existing,Core,14244.16
+INV-261189,30/09/2026,Sarah Collins,Ajman University Catering,Existing,Core,14577.66
+INV-261192,2026-09-30,Sarah Collins,Masfout Valley Market,Existing,Premium,6978.68
+INV-261192,2026-09-30,Sarah Collins,Masfout Valley Market,Existing,Core,13135.08
+INV-261194,2026-10-01,Ahmed Al Mansoori,Deira Family Supermarket,Existing,Premium,13207.16
+INV-261194,2026-10-01,Ahmed Al Mansoori,Deira Family Supermarket,Existing,Core,18946.50
+INV-261196,2026-10-01,Priya Menon,Silicon Oasis Mini Mart,Existing,Core,17257.14
+INV-261199,2026-10-01,Rahul Sharma,Aljada Food Hall,Existing,Core,10377.60
+INV-261200,2026-10-02,Ahmed Al Mansoori,Expo City Food Court,New,Premium,12261.50
+INV-261203,2026-10-02,Priya Menon,Silicon Oasis Mini Mart,Existing,Core,13396.90
+INV-261203,2026-10-02,Priya Menon,Silicon Oasis Mini Mart,Existing,Premium,24734.24
+INV-261204,2026-10-02,Fatima Al Zaabi,Al Raha Gardens Grocery,New,Core,6840.00
+INV-261205,2026-10-02,Rahul Sharma,Aljada Food Hall,Existing,Core,15316.12
+INV-261206,2026-10-02,Layla Haddad,Al Butina Supermarket,Existing,Premium,10237.12
+INV-261209,2026-10-05,James Whitfield,Mussafah Wholesale Foods,Existing,Core,9306.04
+INV-261209,2026-10-05,James Whitfield,Mussafah Wholesale Foods,Existing,Core,13581.68
+INV-261211,2026-10-05,Rahul Sharma,University City Canteens,Existing,Core,11235.96
+INV-261212,2026-10-05,Layla Haddad,Industrial Area 4 Cafeterias,Existing,Core,16299.06
+INV-261213,2026-10-06,Ahmed Al Mansoori,Meydan Racecourse Hospitality,New,Core,11513.96
+INV-261216,2026-10-06,Ahmed Al Mansoori,Deira Family Supermarket,Existing,Premium,21034.60
+INV-261216,2026-10-06,Ahmed Al Mansoori,Deira Family Supermarket,Existing,Premium,28005.08
+INV-261218,2026-10-06,James Whitfield,Saadiyat Organic Store,Existing,Premium,20412.94
+INV-261218,2026-10-06,James Whitfield,Saadiyat Organic Store,Existing,Core,14351.94
+INV-261218,06/10/2026,James Whitfield,Saadiyat Organic Store,Existing,Core,11842.80
+INV-261220,2026-10-06,Imran Qureshi,Ajman Central Market,Existing,Core,12108.80
+INV-261222,2026-10-07,Ahmed Al Mansoori,Dubai Hills Fresh Pantry,Existing,Premium,21802.68
+INV-261222,2026-10-07,Ahmed Al Mansoori,Dubai Hills Fresh Pantry,Existing,Core,15196.36
+INV-261223,2026-10-07,Layla Haddad,Al Mamzar Bakery,Existing,Core,17438.02
+INV-261226,2026-10-07,Imran Qureshi,Umm Al Quwain Coop,Existing,Core,13666.24
+INV-261229,2026-10-09,Sarah Collins,Ajman University Catering,Existing,Core,7719.32
+INV-261232,2026-10-09,Sarah Collins,Al Jazeera Port Canteen,Existing,Core,10299.42
+INV-261232,2026-10-09,Sarah Collins,Al Jazeera Port Canteen,Existing,Premium,13284.00
+INV-261232,2026-10-09,Sarah Collins,Al Jazeera Port Canteen,Existing,Core,14217.80
+INV-261234,2026-10-12,James Whitfield,Khalifa City Supermarket,Existing,Premium,15780.96
+INV-261234,2026-10-12,James Whitfield,Khalifa City Supermarket,Existing,Premium,17759.88
+INV-261237,2026-10-12,Layla Haddad,Sharjah Expo Catering,Existing,Premium,14083.10
+INV-261240,2026-10-12,Imran Qureshi,Khor Fakkan Fresh Mart,Existing,Core,17550.28
+INV-261242,2026-10-12,Sarah Collins,Kalba Lagoon Restaurant,Existing,Core,10608.84
+INV-261244,2026-10-13,Priya Menon,Al Furjan Neighbourhood Market,Existing,Premium,28553.32
+INV-261246,2026-10-13,Rahul Sharma,Al Nahda Superstore,Existing,Premium,7047.58
+INV-261246,2026-10-13,Rahul Sharma,Al Nahda Superstore,Existing,Premium,15611.76
+INV-261246,2026-10-13,Rahul Sharma,Al Nahda Superstore,Existing,Premium,7378.96
+INV-261248,2026-10-13,Layla Haddad,Abu Shagara Mini Mart,Existing,Premium,7161.32
+INV-261248,2026-10-13,Layla Haddad,Abu Shagara Mini Mart,Existing,Core,12352.24
+INV-261251,2026-10-13,Imran Qureshi,Fujairah Beach Hotel,Existing,Core,13105.48
+INV-261253,2026-10-14,Ahmed Al Mansoori,Business Bay Corporate Catering,Existing,Premium,32658.80
+INV-261254,2026-10-14,James Whitfield,Mussafah Wholesale Foods,Existing,Core,12106.32
+INV-261255,2026-10-14,Layla Haddad,Al Khan Seafood Restaurant,Existing,Clearance,15356.70
+INV-261255,2026-10-14,Layla Haddad,Al Khan Seafood Restaurant,Existing,Core,16288.86
+INV-261258,2026-10-14,Layla Haddad,Al Mamzar Bakery,Existing,Clearance,9360.38
+INV-261260,2026-10-15,Ahmed Al Mansoori,Deira Family Supermarket,Existing,Premium,28702.52
+INV-261260,2026-10-15,Ahmed Al Mansoori,Deira Family Supermarket,Existing,Premium,21081.32
+INV-261261,2026-10-16,Ahmed Al Mansoori,Dubai Hills Fresh Pantry,Existing,Core,24505.16
+INV-261261,2026-10-16,Ahmed Al Mansoori ,Dubai Hills Fresh Pantry,existing,Premium,15876.64
+INV-261261,2026-10-16,Ahmed Al Mansoori,Dubai Hills Fresh Pantry,Existing,Core,15492.24
+INV-261263,2026-10-16,Priya Menon,Al Furjan Neighbourhood Market,Existing,Premium,15809.92
+INV-261263,2026-10-16,Priya Menon,Al Furjan Neighbourhood Market,Existing,Core,26237.88
+INV-261263,2026-10-16,Priya Menon,Al Furjan Neighbourhood Market,Existing,Clearance,23380.80
+INV-261265,2026-10-16,James Whitfield,Khalifa City Supermarket,Existing,Core,21500.52
+INV-261265,2026-10-16,James Whitfield,Khalifa City Supermarket,Existing,Core,17128.18
+INV-261265,2026-10-16,James Whitfield,Khalifa City Supermarket,Existing,clearance,23347.08
+INV-261266,2026-10-16,Fatima Al Zaabi,Capital Healthcare Catering,Existing,Core,12314.28
+INV-261266,2026-10-16,Fatima Al Zaabi,Capital Healthcare Catering,Existing,Core,16233.58
+INV-261267,2026-10-16,Fatima Al Zaabi,Al Ain Road Fuel Marts,Existing,Core,25636.38
+INV-261268,2026-10-16,Imran Qureshi,Fujairah Beach Hotel,Existing,Core,9787.70
+INV-261268,2026-10-16,Imran Qureshi,Fujairah Beach Hotel,Existing,Premium,9353.56
+INV-261268,2026-10-16,Imran Qureshi,Fujairah Beach Hotel,Existing,Clearance,13482.96
+INV-261271,2026-10-16,Sarah Collins,RAK Marjan Resort Dining,Existing,Core,"8,804.54"
+INV-261272,2026-10-16,Sarah Collins,Ajman University Catering,Existing,Core,9742.76
+INV-261272,2026-10-16,Sarah Collins,Ajman University Catering,Existing,Premium,6075.08
+INV-261275,2026-10-16,Sarah Collins,Fujairah Fort Supermarket,Existing,Core,16148.30
+INV-261276,2026-10-19,Ahmed Al Mansoori,Al Noor Hypermarket - Qusais,Existing,Core,27370.14
+INV-261276,2026-10-19,Ahmed Al Mansoori,Al Noor Hypermarket - Qusais,Existing,Premium,27180.60
+INV-261276,2026-10-19,Ahmed Al Mansoori,Al Noor Hypermarket - Qusais,Existing,Core,28008.20
+INV-261277,2026-10-19,Priya Menon,Downtown Deli & Co,Existing,Core,25657.78
+INV-261278,2026-10-19,Priya Menon,Al Furjan Neighbourhood Market,Existing,Premium,13365.20
+INV-261280,2026-10-20,Priya Menon,Downtown Deli & Co,Existing,Core,26066.72
+INV-261282,2026-10-20,Rahul Sharma,Aljada Food Hall,Existing,Core,12609.52
+INV-261282,2026-10-20,Rahul Sharma,Aljada Food Hall,Existing,Premium,12957.84
+INV-261282,2026-10-20,Rahul Sharma,Aljada Food Hall,Existing,Core,15076.84
+INV-261283,2026-10-20,Sarah Collins,Kalba Lagoon Restaurant,Existing,Premium,8035.06
+INV-261283,2026-10-20,Sarah Collins,Kalba Lagoon Restaurant,Existing,Premium,14071.06
+INV-261284,2026-10-21,James Whitfield,Corniche Grand Hotel,Existing,Core,21708.32
+INV-261287,2026-10-21,James Whitfield,Raha Beach Kitchen,Existing,Core,21233.80
+INV-261287,2026-10-21,James Whitfield,Raha Beach Kitchen,Existing,Premium,22043.84
+INV-261289,2026-10-21,Fatima Al Zaabi,Shakhbout Grocery Centre,Existing,Core,26550.44
+INV-261291,2026-10-21,Rahul Sharma,Sharjah Corniche Hotel,Existing,Clearance,"AED 19,360.92"
+INV-261292,2026-10-21,Layla Haddad,Al Butina Supermarket,Existing,Premium,14950.22
+INV-261292,2026-10-21,Layla Haddad,Al Butina Supermarket,Existing,Core,11500.16
+INV-261293,2026-10-22,Priya Menon,JLT Bistro Collective,Existing,Premium,13584.88
+INV-261293,2026-10-22,Priya Menon,JLT Bistro Collective,Existing,Core,26285.60
+INV-261296,2026-10-22,James Whitfield,Saadiyat Organic Store,Existing,Core,26132.02
+INV-261297,2026-10-22,Fatima Al Zaabi,Baniyas Coop Outlet,Existing,Core,8786.80
+INV-261297,2026-10-22,Fatima Al Zaabi,Baniyas Coop Outlet,Existing,Core,19999.00
+INV-261299,2026-10-22,Rahul Sharma,Al Majaz Hypermarket,Existing,Core,13281.88
+INV-261299,2026-10-22,Rahul Sharma,Al Majaz Hypermarket,Existing,Core,17564.72
+INV-261299,2026-10-22,Rahul Sharma,Al Majaz Hypermarket,Existing,Clearance,"11,032.00"
+INV-261302,2026-10-23,Ahmed Al Mansoori,Marina Gourmet Market,Existing,Premium,12707.80
+INV-261302,2026-10-23,Ahmed Al Mansoori,Marina Gourmet Market,Existing,Premium,21965.96
+INV-261302,2026-10-23,Ahmed Al Mansoori,Marina Gourmet Market,Existing,Core,26980.88
+INV-261304,2026-10-23,Priya Menon,Al Furjan Neighbourhood Market,Existing,Premium,27326.38
+INV-261307,2026-10-23,Fatima Al Zaabi,Shakhbout Grocery Centre,Existing,Premium,18712.14
+INV-261307,2026-10-23,Fatima Al Zaabi,Shakhbout Grocery Centre,Existing,Core,13833.12
+INV-261309,2026-10-23,Fatima Al Zaabi,Al Ain Road Fuel Marts,Existing,Core,21919.16
+INV-261310,2026-10-23,Layla Haddad,Sharjah Waterfront Cafe,New,Core,9105.94
+CN-9122,2026-10-26,Imran Qureshi,RAK Mountain Resort,Existing,Premium,-9800.00
+CN-9125,2026-10-26,Priya Menon,Golden Sands Hotel Apartments,Existing,Premium,-8850.00
+CN-9127,2026-10-26,Ahmed Al Mansoori,Marina Gourmet Market,Existing,Core,-5275.40
+CN-9130,2026-10-26,Layla Haddad,Al Mamzar Bakery,Existing,Clearance,-2460.00
+INV-261312,2026-10-26,James Whitfield,Al Reem Gourmet,Existing,Core,"AED 18,305.82"
+INV-261314,2026-10-26,Fatima Al Zaabi,Al Khalidiya Cafe Chain,Existing,Core,23294.96
+INV-261316,2026-10-26,Rahul Sharma,Al Nahda Superstore,Existing,Core,13758.24
+INV-261316,2026-10-26,Rahul Sharma,Al Nahda Superstore,Existing,Clearance,13078.96
+INV-261318,2026-10-26,Layla Haddad,Al Taawun Grocery,Existing,Core,8971.16
+INV-261319,2026-10-27,James Whitfield,Raha Beach Kitchen,Existing,Core,23510.56
+INV-261320,2026-10-27,Fatima Al Zaabi,Baniyas Coop Outlet,Existing,Core,9711.72
+INV-261320,2026-10-27,Fatima Al Zaabi,Baniyas Coop Outlet,Existing,Core,19627.44
+INV-261323,2026-10-27,Fatima Al Zaabi,Shakhbout Grocery Centre,Existing,Core,20481.94
+INV-261326,2026-10-27,Rahul Sharma,Muwaileh Fresh Market,Existing,Core,14674.64
+INV-261326,2026-10-27,Rahul Sharma,Muwaileh Fresh Market,Existing,Core,12118.20
+INV-261329,2026-10-27,Rahul Sharma,Al Qasba Restaurants,Existing,Core,21585.84
+INV-261332,2026-10-27,Rahul Sharma,Muwaileh Fresh Market,Existing,Premium,10968.12
+INV-261333,2026-10-27,Rahul Sharma,Al Majaz Hypermarket,Existing,Core,11701.32
+INV-261335,2026-10-27,Imran Qureshi,Al Nakheel Grocery RAK,Existing,Core,10379.88
+INV-261337,2026-10-27,Sarah Collins,Al Hamra Village Store,Existing,Premium,8837.88
+INV-261338,2026-10-27,Sarah Collins,Al Jazeera Port Canteen,Existing,Premium,15527.02
+INV-261340,2026-10-28,Ahmed Al Mansoori,Al Noor Hypermarket - Qusais,Existing,Core ,22737.56
+INV-261340,2026-10-28,Ahmed Al Mansoori,Al Noor Hypermarket - Qusais,Existing,Premium,14840.16
+INV-261343,2026-10-28,Priya Menon,Golden Sands Hotel Apartments,Existing,Core,15496.08
+INV-261343,2026-10-28,Priya Menon,Golden Sands Hotel Apartments,Existing,Core,15590.88
+INV-261346,2026-10-28,Priya Menon,Al Furjan Neighbourhood Market,Existing,Core,20089.88
+INV-261347,2026-10-28,Fatima Al Zaabi,Bani Yas Trading Store,Existing,Clearance,12222.02
+INV-261347,2026-10-28,Fatima Al Zaabi,Bani Yas Trading Store,Existing,Core,16966.76
+INV-261347,2026-10-28,Fatima Al Zaabi,Bani Yas Trading Store,Existing,Clearance,13470.40
+INV-261348,2026-10-28,Rahul Sharma,Al Nahda Superstore,Existing,Core,11531.72
+INV-261348,2026-10-28,Rahul Sharma,Al Nahda Superstore,Existing,Core,8149.32
+INV-261348,2026-10-28,Rahul Sharma,Al Nahda Superstore,Existing,Core,13003.76
+INV-261349,2026-10-28,Imran Qureshi ,Al Marjan Island Kiosks,new,Premium,6206.40
+INV-261351,2026-10-28,Imran Qureshi,Ajman Corniche Cafe,Existing,Core,10871.56
+INV-261352,2026-10-28,Imran Qureshi,Al Nakheel Grocery RAK,Existing,Core,9712.80
+INV-261352,2026-10-28,Imran Qureshi,Al Nakheel Grocery RAK,Existing,Core,6238.96
+INV-261353,2026-10-28,Sarah Collins,Fujairah Fort Supermarket,Existing,Core,15481.62
+INV-261356,2026-10-28,Sarah Collins,Ajman University Catering,Existing,Core,10542.96
+CN-9132,2026-10-29,Fatima Al Zaabi,Al Raha Gardens Grocery,New,Core,-6840.00
+INV-261357,2026-10-29,Ahmed Al Mansoori,Al Barsha Coop Store,Existing,Core,23441.76
+INV-261358,2026-10-29,Priya Menon,Downtown Deli & Co,Existing,Core,24225.84
+INV-261359,2026-10-29,James Whitfield,Yas Leisure Catering,Existing,Core,27145.28
+INV-261361,2026-10-29,Layla Haddad,Abu Shagara Mini Mart,Existing,Core,8642.18
+INV-261362,2026-10-29,Layla Haddad,Abu Shagara Mini Mart,Existing,Core,8484.20
+INV-261364,2026-10-29,Imran Qureshi,Khor Fakkan Fresh Mart,Existing,Core,9556.88
+INV-261367,2026-10-29,Sarah Collins,Dibba Seaside Grocers,Existing,Premium,6285.24
+INV-261367,2026-10-29,Sarah Collins,Dibba Seaside Grocers,Existing,Core,13040.70
+INV-261367,2026-10-29,Sarah Collins,Dibba Seaside Grocers,Existing,Core,10217.50
+CN-9133,2026-10-30,James Whitfield,Mussafah Wholesale Foods,Existing,Core,-4630.00
+INV-261369,2026-10-30,James Whitfield,Corniche Grand Hotel,Existing,Core,23600.76
+INV-261371,2026-10-30,Sarah Collins,Hatta Lodge Dining,New,Premium,4564.28
+INV-261372,2026-10-30,Sarah Collins,Al Jazeera Port Canteen,Existing,Core,"AED 15,185.98"
+INV-261372,2026-10-30,Sarah Collins,Al Jazeera Port Canteen,Existing,Core,11659.04
+INV-261375,2026-10-30,Sarah Collins,Kalba Lagoon Restaurant,Existing,Core,13483.80
