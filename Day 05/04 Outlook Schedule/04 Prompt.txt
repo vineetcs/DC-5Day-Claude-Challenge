@@ -1,0 +1,99 @@
+
+Every weekday at 8:30 AM, prepare my **Daily Work Briefing** using my connected email and calendar.
+
+Review:
+
+* Today's calendar meetings
+* Important emails received since the previous briefing
+* Tasks, requests, follow-ups, deadlines, or commitments mentioned in those emails
+* Anything urgent, overdue, or requiring my attention
+
+### Privacy Rule
+
+Do NOT display email addresses in the briefing.
+
+When referring to someone, show **only their first name**. For example:
+
+* "Follow up with Sarah"
+* "Send proposal to Ahmed"
+
+Do not display full email addresses, even if they are available from the connected account.
+
+### Priority
+
+Assign each relevant item a priority:
+
+* **P1 – Urgent:** Needs immediate attention today
+* **P2 – High:** Important and should preferably be completed today
+* **P3 – Normal:** Can be handled after higher-priority work
+
+Use deadlines, meeting times, urgency in the email, and existing commitments to determine priority. Do not invent urgency where none exists.
+
+### Output Format
+
+Start with the date and a one-line summary of the day.
+
+#### 1. Today's Schedule
+
+Present today's meetings in a table:
+
+| Time | Meeting | With | Preparation Needed | Priority |
+| ---- | ------- | ---- | ------------------ | -------- |
+
+Use first names only in the **With** column.
+
+#### 2. Important Emails
+
+| Priority | From | Topic | What I Need to Know | Deadline |
+| -------- | ---- | ----- | ------------------- | -------- |
+
+Use only the sender's first name. Never display their email address.
+
+Include only emails that are important or require my attention. Do not clutter the briefing with newsletters, advertisements, routine notifications, or emails that require no action.
+
+#### 3. Actions Required
+
+Create a consolidated action table ordered by priority:
+
+| Priority | Task | Person | Due | Source | Status |
+| -------- | ---- | ------ | --- | ------ | ------ |
+
+For **Source**, use simple descriptions such as Email, Calendar, or Follow-up.
+
+For **Status**, use:
+
+* Urgent
+* Due Today
+* Upcoming
+* Overdue
+* No Deadline
+
+Group or sort the tasks day-wise when there are tasks due on different dates.
+
+#### 4. Top 3 Priorities
+
+Finish with the **three most important things I should focus on today**, ranked:
+
+**#1 — [Task]**
+Why it matters: [one short reason]
+
+**#2 — [Task]**
+Why it matters: [one short reason]
+
+**#3 — [Task]**
+Why it matters: [one short reason]
+
+### Important Rules
+
+* Keep the entire briefing concise and actionable.
+* Use first names only for people.
+* Never display email addresses.
+* Do not reproduce confidential email content unnecessarily; summarize what I need to know or do.
+* Combine duplicate requests or related email threads into a single action where appropriate.
+* Clearly identify overdue items.
+* If an email contains a deadline, preserve that deadline.
+* Do not invent tasks, deadlines, meetings, or priorities that are not supported by my email or calendar.
+* Focus on **what requires my attention**, rather than summarizing everything in my inbox.
+
+Prepare this briefing automatically **every weekday at 8:30 AM**.
+

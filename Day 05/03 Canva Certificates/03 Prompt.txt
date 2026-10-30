@@ -1,0 +1,5 @@
+Using my Canva brand template "DC_Cert_Sample_01", create one certificate per row in participants.xlsx (based on "Particpant Name") and generate the downloadable link.
+
+Just create the certificates for the top two, for the first two participants only. Once it is okay and I verify, then you can go and do it for the remaining ones.
+
+Before you proceed, check if you have access to Canva and if you found the brand template.

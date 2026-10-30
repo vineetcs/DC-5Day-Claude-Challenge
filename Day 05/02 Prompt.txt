@@ -1,0 +1,6 @@
+
+Read every invoice in this folder and build Invoice_Register.xlsx with one row per invoice: vendor, TRN, invoice no, invoice date (DD-MMM-YYYY), due date, net, VAT, total, file name.
+
+Add a "Checks" column and flag: duplicates, VAT not equal to 5% of net, totals that don't add up, missing TRN, and anything overdue as of today.
+Add a Summary sheet with the total payable after removing duplicates and correcting errors, plus a list of what I should query with which vendor. Do not change the PDFs.
+

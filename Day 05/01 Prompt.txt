@@ -1,0 +1,9 @@
+
+You are my office admin. Organise the files in this folder.
+
+1. Open each file and check what it really is (don't judge by the file name alone). Show me a PLAN as a table: current name → new folder → new name → reason. Do not move anything yet.
+2. Use folders by department: Finance, HR, Sales, Operations, Legal, Travel, Images, Archives. Put passports, salary sheets and anything confidential in "_Sensitive - Review". Put duplicates and older versions in "_Duplicates - Review". Never delete anything.
+3. Rename files as YYYY-MM-DD_Type_Party (e.g. 2026-09-12_Invoice_GulfOfficeSupplies.pdf) when a date is known.
+4. When I reply "go", move the files and create _Index.xlsx listing old name, new location and a one-line summary of each file.
+5. Finish with any deadlines or action items you found inside the files.
+
